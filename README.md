@@ -1,5 +1,10 @@
 # Hono SSE Test Project
 
+
+https://github.com/user-attachments/assets/43c73163-484f-47e0-b802-fff29213f58d
+
+
+
 This project demonstrates a real-time event stream using Hono's Server-Sent Events (SSE) and a Next.js client.
 
 ## Project Structure
