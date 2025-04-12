@@ -1,0 +1,17 @@
+{
+  "name": "hono-sse-server",
+  "version": "1.0.0",
+  "description": "Hono server with SSE functionality",
+  "type": "module",
+  "scripts": {
+    "dev": "bun run --watch src/index.ts",
+    "start": "bun run src/index.ts"
+  },
+  "dependencies": {
+    "hono": "^4.0.0"
+  },
+  "devDependencies": {
+    "bun-types": "latest",
+    "typescript": "^5.0.0"
+  }
+}
